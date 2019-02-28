@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>购物袋</title>
+		<link rel="stylesheet" type="text/css" href="css/common.css"/>
+		<link rel="stylesheet" type="text/css" href="css/comm.css"/>
+		<link rel="icon" href="images/title.ico" type="image/x-icon"/>
+		<link rel="stylesheet" type="text/css" href="css/shopcar.css"/>
+	</head>
+	<script src="js/jquery-1.11.1.js"></script>
+	<script src="js/cookie.js"></script>
+	<body>
+		<div id="mtop">
+		<div class="mtop">
+			<div class="province">
+				<div class="pro">
+					<em class="pro_em">北京市</em>
+					<i>▼</i>
+					</div>
+				<div class="pro_b" style="z-index: 11;">
+					<p>请选择你所在的收货地区</p>
+					<div class="pro_c">
+						<div class="pro_c1"><i>省份</i><b>&nbsp</b></div>
+					</div>
+					<div class="pro_x">
+						<ul>
+							<li class="prox_color">北京</li>
+							<li>天津</li>
+							<li>上海</li>
+							<li>广州</li>
+							<li>深圳</li>
+							<li>杭州</li>
+							<li>河南</li>
+							<li>广西</li>
+							<li>海南</li>
+							<li>新疆</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<p>
+				<a href="register.html" class="regist">请登录</a>
+				<a href="register.html" class="onlod">注册</a>
+				<a href="javascript:;">我的订单</a>
+				<a href="javascript:;">
+					我的特卖
+					<em></em>
+				</a>
+				<a href="javascript:;">
+					会员俱乐部
+					<em></em>
+				</a>
+				<a href="javascript:;">
+					客户服务
+					<em></em>
+				</a>
+				<a href="javascript:;">
+					<i></i>
+					手机版
+				</a>
+				<a href="javascript:;">
+					更多
+					<em></em>
+				</a>
+			</p>
+		</div>
+	</div>
+		<!--log搜索框-->
+		<div id="log" style="border-bottom: 2px solid #E6057D;">
+		<div class="log">
+			<div class="log">
+				<img src="images/logo_03.jpg" alt="">
+			</div>
+			<div class="by">
+				<img src="images/biaoyu_03.jpg" alt="">
+			</div>
+			<div class="sous">				
+				<input type="text" placeholder="连衣裙" class="sous1"/>	
+				<a href="">
+					<i></i>
+				</a>												
+			</div>
+			<div class="shopcar">
+				<a href="shopcar.html">
+					<i ></i>
+					购物袋					
+				</a>
+				<span class="shop_num">0</span>
+			</div>
+		</div>
+		
+		</div>
+		
+		<!--商品结算-->
+		<div id="sCar "style="min-height: 500px;">
+			
+			<div class="shoplist">
+				<h2>请去挑选你喜爱的商品哦 ！</h2>
+				<!--'<div class="shop-item clear_fix">'+ 
+					'<p class="fl"><input type="checkbox" class="ck"/></p>'+
+					'<img class="fl" src="img/'+ shopinfo.src +'" alt="" />'+
+					'<p class="fl">'+ shopinfo.name +'</p>'+
+					'<span class="fl">'+ shopinfo.price +'元</span>'+
+					'<p class="fl count" '+
+						'data-id="'+ shopinfo.id +'" '+
+						'data-price="'+ shopinfo.price +'" data-count="'+ shopinfo.count +'"'+
+						'data-name="'+ shopinfo.name +'" data-src="'+ shopinfo.src +'"'+
+						'>'+
+						'<span class="updateCount" data-number="1">+</span>'+
+						'<span class="shop-count">'+ shopinfo.count +'</span>'+
+						'<span class="updateCount" data-number="-1">-</span>'+
+					'</p>'+
+					'<em class="fl sumPrice">'+ (shopinfo.count * shopinfo.price) +'元</em>'+
+					'<i class="fl delBtn">删除</i>'+
+				'</div>';-->
+			</div>
+			<div id="sum" class="clearfix">
+				共多少<span class="count2"></span>件商品，合计<span class="money2"></span>元
+				<label class="fl">
+					<input id="selectAll" type="checkbox"/>全选
+				</label>
+		</div>
+		</div>
+		<!--底部-->
+	<div id="foot">
+		<div class="foot">
+			<div class="foot_ul">
+				<ul>
+					<li><a href="">关于我们</a></li>
+					<li><a href="">About us</a></li>
+					<li><a href="">Investor Relations</a></li>
+					<li><a href="">媒体报道</a></li>
+					<li><a href="">品牌招商</a></li>
+					<li><a href="">隐私条款</a></li>
+					<li><a href="">唯品诚聘</a></li>
+					<li><a href="">唯品卡</a></li>
+					<li><a href="">联系我们</a></li>
+			</ul>
+			</div>
+			<div class="foot_span">
+				<span>Copyright © 2008-2019 vip.com，All Rights Reserved  使用本网站即表示接受 唯品会用户协议。版权所有 广州唯品会电子商务有限公司 </span>
+				<span>粤公网安备 44010302111111号    粤ICP备08114786号 增值业务经营许可证：粤B2-20170777 网络文化经营许可证：粤网文〔2018〕5030-1743号 </span>
+				<span>自营主体经营证照   风险监测信息   互联网药品交易服务资格证（粤C20140002） 互联网药品信息服务资格证书：（粤）-经营性-2018-0271</span>
+			</div>
+			
+		</div>
+	</div>
+	</body>
+</html>
+<script src="js/common.js"></script>
+<script src="js/shopcar.js"></script>

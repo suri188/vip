@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>唯品会网站登录注册</title>
+		<link rel="stylesheet" href="css/common.css" />
+		<link rel="stylesheet" href="css/register.css" />
+		<link rel="icon" href="images/title.ico" type="image/x-icon"/>
+	</head>
+	<script src="js/jquery-1.11.1.js"></script>
+	<script src="js/cookie.js"></script>
+	<!--<script src="js/register.js"></script>-->
+	<body>
+		<!--点击注册登录弹出登录框-->
+		<div class="log">
+			<div class="logo"><img src="images/logo_03.jpg"/></div>
+			<div class="by"><img src="images/biaoyu_03.jpg"/></div>
+		</div>
+		<div id="tab">
+			<div class="pic"><img src="images/zcpic_03.jpg"/></div>
+			<div class="tab">
+				<div class="list">
+					<ul class="register">
+						<li class="active">会员注册</li>
+						<li>会员登录</li>					
+					</ul>
+				</div>
+				<form action="" class="show">				
+					<input type="text" placeholder="请输入手机号码" id="uname"/>
+					<span class="s1"> &nbsp</span>
+					<input type="text" placeholder="请输入6位验证码" id="yz"/>
+					<span class="s2"> &nbsp</span>
+					<input type="password" placeholder="密码由6-20位字母，数字和下划线组成" id="upwd"/>
+					<span class="s3"> &nbsp</span>
+					<input type="password" placeholder="请再次输入上面的密码" id="apwd"/>
+					<span class="s4"> &nbsp</span>
+					<em style="background-color: #FA2A83;cursor: pointer;font-size: 16px;color: white;" id="usub">立即注册</em>			
+				</form>
+				<form action="" >				
+					<input type="text" placeholder="请输入手机号码" id="dname"/>
+					<span class="ss1"> &nbsp</span>					
+					<input type="password" placeholder="密码由6-20位字母，数字和符号组成" id="pwd"/>
+					<span class="ss3"> &nbsp</span>					
+					<em type=" button" style="background-color: #FA2A83;cursor: pointer;font-size: 16px;color: white;"id="sub">立即登陆</em>			
+				</form>
+			</div>			
+		</div>
+		<h5>Copyright 2008-2019 vip.com，All Rights Reserved ICP证：粤 B2-20080329</h5>	
+		<div id="layer"></div>
+		<div id="erro"><b>输入有误请重新输入...</b><i id="cl">×</i></div>
+	</body>
+</html>
+<script src="js/register.js"></script>

@@ -1,0 +1,52 @@
+.showpic{
+    margin-top: 20px;
+    height: 600px;
+    .showcon{
+        width: 420px;
+        height: 497px;
+        float: left;
+        overflow: hidden;
+        .bigimg{
+            height: 420px;
+            overflow: hidden;
+            position: relative;
+            cursor: move;
+            img{
+                display: none;
+            }
+            .small{
+                display:block;
+            }
+            .big{
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+        }
+        .buttonimg{
+            margin: 7px 0px;
+            height: 57px;
+           img{
+                margin-left: 40px;
+           } 
+        }
+    }
+    .tit{
+        float: left;
+        margin-left: 70px;
+        height: 497px;
+        padding-top: 100px;
+        text-align: center;
+        h3{
+            font-size: 16px;
+            margin-bottom: 150px;
+        }
+        button{
+            width: 150px;
+            height: 30px;
+            background: #E6057D;
+            color: #fff;
+            border: none;
+        }
+    }
+}

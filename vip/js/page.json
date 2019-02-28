@@ -1,0 +1,42 @@
+{
+	"list1":{
+		"name" : "项链",
+		"list":[
+			{"id":"01", "img":"xl1","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"1500","del":"3000","b":"7.3折","u":"迪士尼公主高跟鞋项链"},
+			{"id":"02","img":"xl2","simg1":"small2-1","simg2":"small2-2","bimg1":"big2-1","bimg2":"big2-2","boimg1":"button2-1","boimg2":"button2-2","em":"2300","del":"8700","b":"4.5折","u":"心动圆形钻石铂金项链"},
+			{"id":"03","img":"xl3","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"8900","del":"12300","b":"5.9折","u":"梦幻星球项链"},
+			{"id":"04","img":"xl4","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"680","del":"4500","b":"6,9折","u":"甜蜜峰巢项链"},
+			{"id":"05","img":"xl5","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"3122","del":"6700","b":"4.9折","u":"爱无限系列项链"},
+			{"id":"06","img":"xl6","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"6700","del":"9870","b":"8.9折","u":"猪气祝福项链"},
+			{"id":"07","img":"xl7","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"4566","del":"5800","b":"9折","u":"心动圆形钻石铂金项链"},
+			{"id":"08","img":"xl8","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"3456","del":"8400","b":"8.1折","u":"心动时刻项链"},
+			{"id":"09","img":"xl9","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"1232","del":"3000","b":"4.3折","u":"优雅天鹅项链"},
+			{"id":"10","img":"xl10","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"1545","del":"3400","b":"9折","u":"时尚o字金项链"},
+			{"id":"11","img":"xl11","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"5200","del":"7600","b":"2.3折","u":"梦幻百搭金项链"},
+			{"id":"12","img":"xl12","simg1":"small1-1","simg2":"small1-2","simg3":"small1-3","simg4":"small1-4","bimg1":"big1-1","bimg2":"big1-2","bimg3":"big1-3","bimg4":"big1-4","boimg1":"button1-1",
+			"boimg2":"button1-2","boimg3":"button1-3","boimg4":"button1-4","em":"670","del":"910","b":"7.3折","u":"心动圆形钻石铂金项链"}
+		]
+	},		
+	"list2":{
+		"name" : "戒指",
+		"list":[
+			{"id":"01","img":"jz1","simg1":"small3-1","simg2":"small3-2","bimg1":"big3-1","bimg2":"big3-2","boimg1":"button3-1","boimg2":"button3-2","em":"1500","del":"3000","b":"7.3折","u":"心动圆形钻石铂金项链"},
+			{"id":"02","img":"jz2","simg1":"small3-1","simg2":"small3-2","bimg1":"big3-1","bimg2":"big3-2","boimg1":"button3-1","boimg2":"button3-2","em":"1500","del":"3000","b":"7.3折","u":"心动圆形钻石铂金项链"},
+			{"id":"03","img":"jz3","simg1":"small3-1","simg2":"small3-2","bimg1":"big3-1","bimg2":"big3-2","boimg1":"button3-1","boimg2":"button3-2","em":"1500","del":"3000","b":"7.3折","u":"心动圆形钻石铂金项链"},
+			{"id":"04","img":"jz4","simg1":"small3-1","simg2":"small3-2","bimg1":"big3-1","bimg2":"big3-2","boimg1":"button3-1","boimg2":"button3-2","em":"1500","del":"3000","b":"7.3折","u":"心动圆形钻石铂金项链"},
+			{"id":"05","img":"jz5","simg1":"small3-1","simg2":"small3-2","bimg1":"big3-1","bimg2":"big3-2","boimg1":"button3-1","boimg2":"button3-2","em":"1500","del":"3000","b":"7.3折","u":"心动圆形钻石铂金项链"},
+			{"id":"06","img":"jz6","simg1":"small3-1","simg2":"small3-2","bimg1":"big3-1","bimg2":"big3-2","boimg1":"button3-1","boimg2":"button3-2","em":"1500","del":"3000","b":"7.3折","u":"心动圆形钻石铂金项链"}		
+		]
+	}
+
+}

@@ -1,0 +1,42 @@
+.showpic {
+  margin-top: 20px;
+  height: 600px; }
+  .showpic .showcon {
+    width: 420px;
+    height: 497px;
+    float: left;
+    overflow: hidden; }
+    .showpic .showcon .bigimg {
+      height: 420px;
+      overflow: hidden;
+      position: relative; }
+      .showpic .showcon .bigimg img {
+        display: none; }
+      .showpic .showcon .bigimg .small {
+        display: block; }
+      .showpic .showcon .bigimg .big {
+        position: absolute;
+        top: 0;
+        left: 0; }
+    .showpic .showcon .buttonimg {
+      margin: 7px 0px;
+      height: 57px; }
+      .showpic .showcon .buttonimg img {
+        margin-left: 40px; }
+  .showpic .tit {
+    float: left;
+    margin-left: 70px;
+    height: 497px;
+    padding-top: 100px;
+    text-align: center; }
+    .showpic .tit h3 {
+      font-size: 16px;
+      margin-bottom: 150px; }
+    .showpic .tit button {
+      width: 150px;
+      height: 30px;
+      background: #E6057D;
+      color: #fff;
+      border: none; }
+
+/*# sourceMappingURL=page2.css.map */
